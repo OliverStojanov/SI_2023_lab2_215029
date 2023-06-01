@@ -11,7 +11,7 @@ user = null  allUsers 	=> so ovoj test slusaj pominuvame niz throw
 user(null,aushd,asbasb@hah.com) allUsers.add(user(petar,aushd,asbasb@hah.com))
 user(pavle,abv123456@,pavle@hah.com) allUsers.add(user(petar,12341234,asbasb@hah.com))	
 user(pavle,abv12  3456@ ,pavlehah.com)  allUsers.add(user(petar,12341234,asbasb@hah.com))
-![image](https://github.com/OliverStojanov/SI_2023_lab2_215029/assets/111901069/69b73a86-c23e-4285-914b-88c150863c63)
+![3prasanje](https://github.com/OliverStojanov/SI_2023_lab2_215029/assets/111901069/1a2e4589-5918-4e90-966d-e456181b45c4)
 
 5)
 T || T || T       => user = null
